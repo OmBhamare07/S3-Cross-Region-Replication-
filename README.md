@@ -1,4 +1,4 @@
-# AWS S3 Cross-Region Replication (CRR) Project
+# AWS S3 Cross-Region Replication (CRR)
 
 ## Introduction
 This project demonstrates the implementation of **Amazon S3 Cross-Region Replication (CRR)**, a feature that automatically replicates objects from a source S3 bucket in one AWS region to a destination bucket in another region.
